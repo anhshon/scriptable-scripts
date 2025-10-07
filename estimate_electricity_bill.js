@@ -1,6 +1,6 @@
-// Editable customer ID
+// Customer ID
 const maKhachHang = "OPS2151615A";
-// Add your cookie here
+// Add your cookie here, get it from https://e-thanglong.vn
 const cookie = ".AspNetCore.Antiforgery......";
 
 // Get current date
